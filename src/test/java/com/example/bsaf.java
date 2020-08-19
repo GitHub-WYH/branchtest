@@ -14,4 +14,7 @@ public class bsaf {
     public static void testbaa11f() {
         dd.testdd();
     }
+    public static void testbaa11232f() {
+        dd.testdd();
+    }
 }

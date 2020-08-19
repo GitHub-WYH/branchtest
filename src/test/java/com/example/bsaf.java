@@ -8,5 +8,7 @@ package com.example;
  * @Description: TODO
  */
 public class bsaf {
-
+    public static void testbaaf() {
+        dd.testdd();
+    }
 }
